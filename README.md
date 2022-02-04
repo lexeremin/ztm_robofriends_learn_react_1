@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# This is test ReactJS app project #1 - robofriends
 
 In the project directory, you can run:
 
